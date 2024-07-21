@@ -1,0 +1,62 @@
+﻿@model MuniChorrillos2.Models.UsuarioAcceso
+@{
+    Layout = null;
+    ViewData["Title"] = "Login";
+}
+<div class="container col-sm-6">
+    <h1>Inicia Sesion</h1>
+</div>
+<div class="container col-sm-6">
+<main role="main" class="pb-3">
+<link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+<link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+<link rel="stylesheet" href="~/MuniChorrillos2.styles.css" asp-append-version="true" />
+<form asp-action="Login" asp-controller="Acceso" method="post">
+    <!-- Email input -->
+    <div data-mdb-input-init class="form-outline mb-4">
+        <input asp-for="UsuarioNom" class="form-control" />
+        <label asp-for="UsuarioNom" class="control-label">Usuario</label>
+    </div>
+
+    <!-- Password input -->
+    <div data-mdb-input-init class="form-outline mb-4">
+        <input asp-for="Contraseña" type="password" class="form-control" />
+        <label asp-for="Contraseña" class="control-label">Password</label>
+    </div>
+
+    <!-- 2 column grid layout for inline styling -->
+    <div class="row mb-4">
+        <div class="col">
+            <a href="#!">Forgot password?</a>
+        </div>
+    </div>
+
+    <!-- Submit button -->
+    <button type="submit" name="button" class="btn-primary login_btn">Ingresar</button>
+
+    <!-- Register buttons -->
+    <div class="text-center">
+        <p>Not a member? <a href="#!">Register</a></p>
+        <p>or sign up with:</p>
+        <button type="button" data-mdb-button-init data-mdb-ripple-init class="btn btn-link btn-floating mx-1">
+            <i class="fab fa-facebook-f"></i>
+        </button>
+
+        <button type="button" data-mdb-button-init data-mdb-ripple-init class="btn btn-link btn-floating mx-1">
+            <i class="fab fa-google"></i>
+        </button>
+
+        <button type="button" data-mdb-button-init data-mdb-ripple-init class="btn btn-link btn-floating mx-1">
+            <i class="fab fa-twitter"></i>
+        </button>
+
+        <button type="button" data-mdb-button-init data-mdb-ripple-init class="btn btn-link btn-floating mx-1">
+            <i class="fab fa-github"></i>
+        </button>
+    </div>
+</form>
+    </main>
+</div>
+<script src="~/lib/jquery/dist/jquery.min.js"></script>
+<script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+<script src="~/js/site.js" asp-append-version="true"></script>

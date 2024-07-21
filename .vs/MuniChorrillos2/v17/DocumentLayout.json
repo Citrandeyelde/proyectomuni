@@ -1,0 +1,110 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Eddy Adrian\\source\\repos\\MuniChorrillos2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4F02F549-4BDF-4A24-9565-8D3F9353E616}|MuniChorrillos2\\MuniChorrillos2.csproj|c:\\users\\eddy adrian\\source\\repos\\munichorrillos2\\munichorrillos2\\controllers\\personalscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F02F549-4BDF-4A24-9565-8D3F9353E616}|MuniChorrillos2\\MuniChorrillos2.csproj|solutionrelative:munichorrillos2\\controllers\\personalscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F02F549-4BDF-4A24-9565-8D3F9353E616}|MuniChorrillos2\\MuniChorrillos2.csproj|c:\\users\\eddy adrian\\source\\repos\\munichorrillos2\\munichorrillos2\\models\\personal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F02F549-4BDF-4A24-9565-8D3F9353E616}|MuniChorrillos2\\MuniChorrillos2.csproj|solutionrelative:munichorrillos2\\models\\personal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F02F549-4BDF-4A24-9565-8D3F9353E616}|MuniChorrillos2\\MuniChorrillos2.csproj|c:\\users\\eddy adrian\\source\\repos\\munichorrillos2\\munichorrillos2\\views\\personals\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4F02F549-4BDF-4A24-9565-8D3F9353E616}|MuniChorrillos2\\MuniChorrillos2.csproj|solutionrelative:munichorrillos2\\views\\personals\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F02F549-4BDF-4A24-9565-8D3F9353E616}|MuniChorrillos2\\MuniChorrillos2.csproj|c:\\users\\eddy adrian\\source\\repos\\munichorrillos2\\munichorrillos2\\controllers\\areascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F02F549-4BDF-4A24-9565-8D3F9353E616}|MuniChorrillos2\\MuniChorrillos2.csproj|solutionrelative:munichorrillos2\\controllers\\areascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F02F549-4BDF-4A24-9565-8D3F9353E616}|MuniChorrillos2\\MuniChorrillos2.csproj|c:\\users\\eddy adrian\\source\\repos\\munichorrillos2\\munichorrillos2\\models\\bdmultas2context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F02F549-4BDF-4A24-9565-8D3F9353E616}|MuniChorrillos2\\MuniChorrillos2.csproj|solutionrelative:munichorrillos2\\models\\bdmultas2context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Eddy Adrian\\source\\repos\\MuniChorrillos2\\MuniChorrillos2\\Views\\Personals\\Create.cshtml",
+              "RelativeDocumentMoniker": "MuniChorrillos2\\Views\\Personals\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Eddy Adrian\\source\\repos\\MuniChorrillos2\\MuniChorrillos2\\Views\\Personals\\Create.cshtml",
+              "RelativeToolTip": "MuniChorrillos2\\Views\\Personals\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-21T06:37:58.023Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AreasController.cs",
+              "DocumentMoniker": "C:\\Users\\Eddy Adrian\\source\\repos\\MuniChorrillos2\\MuniChorrillos2\\Controllers\\AreasController.cs",
+              "RelativeDocumentMoniker": "MuniChorrillos2\\Controllers\\AreasController.cs",
+              "ToolTip": "C:\\Users\\Eddy Adrian\\source\\repos\\MuniChorrillos2\\MuniChorrillos2\\Controllers\\AreasController.cs",
+              "RelativeToolTip": "MuniChorrillos2\\Controllers\\AreasController.cs",
+              "ViewState": "AQIAAEAAAAAAAAAAAAAcwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T06:57:14.035Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Bdmultas2Context.cs",
+              "DocumentMoniker": "C:\\Users\\Eddy Adrian\\source\\repos\\MuniChorrillos2\\MuniChorrillos2\\Models\\Bdmultas2Context.cs",
+              "RelativeDocumentMoniker": "MuniChorrillos2\\Models\\Bdmultas2Context.cs",
+              "ToolTip": "C:\\Users\\Eddy Adrian\\source\\repos\\MuniChorrillos2\\MuniChorrillos2\\Models\\Bdmultas2Context.cs",
+              "RelativeToolTip": "MuniChorrillos2\\Models\\Bdmultas2Context.cs",
+              "ViewState": "AQIAAHwAAAAAAAAAAAD4v4YAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T06:53:33.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Personal.cs",
+              "DocumentMoniker": "C:\\Users\\Eddy Adrian\\source\\repos\\MuniChorrillos2\\MuniChorrillos2\\Models\\Personal.cs",
+              "RelativeDocumentMoniker": "MuniChorrillos2\\Models\\Personal.cs",
+              "ToolTip": "C:\\Users\\Eddy Adrian\\source\\repos\\MuniChorrillos2\\MuniChorrillos2\\Models\\Personal.cs",
+              "RelativeToolTip": "MuniChorrillos2\\Models\\Personal.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAcwBkAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T06:53:28.734Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PersonalsController.cs",
+              "DocumentMoniker": "C:\\Users\\Eddy Adrian\\source\\repos\\MuniChorrillos2\\MuniChorrillos2\\Controllers\\PersonalsController.cs",
+              "RelativeDocumentMoniker": "MuniChorrillos2\\Controllers\\PersonalsController.cs",
+              "ToolTip": "C:\\Users\\Eddy Adrian\\source\\repos\\MuniChorrillos2\\MuniChorrillos2\\Controllers\\PersonalsController.cs",
+              "RelativeToolTip": "MuniChorrillos2\\Controllers\\PersonalsController.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAQwDMAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T06:49:02.791Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
